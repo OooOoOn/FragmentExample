@@ -16,6 +16,8 @@ import android.widget.EditText;
 
 public class TopFragment extends Fragment {
 
+    //how about this one
+
     //we tell our app how the layout look like
     EditText topTextInput;
     EditText bottomTextInput;
